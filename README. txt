@@ -1,0 +1,12 @@
+# ArcNova Fusion AI
+
+A real-time fusion reactor AI dashboard built using Streamlit, powered by LSTM and XGBoost hybrid prediction models.
+
+## How to run
+
+1. Install dependencies  
+   `pip install -r requirements.txt`  
+2. Launch the app  
+   `streamlit run app.py`
+
+Built for educational and research deployment.
